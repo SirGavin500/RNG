@@ -1,0 +1,30 @@
+{
+    "students": [
+        { "firstName": "Arianna", "lastName": "Huntley", "email": "ahuntley@codestack.co", "personalEmail": "clair10022004@gmail.com", "role": "Student" },
+        { "firstName": "Brandon", "lastName": "Estrada", "email": "bestrada@codestack.co", "personalEmail": "bestrada8800@gmail.com", "role": "Student" },
+        { "firstName": "Brandon", "lastName": "Van Horn", "email": "bvanhorn@codestack.co", "personalEmail": "bmdvanhorn@icloud.com", "role": "Student" },
+        { "firstName": "Bryce", "lastName": "Mack", "email": "bmack@codestack.co", "personalEmail": "brycewmack50@outlook.com", "role": "Student" },
+        { "firstName": "Carlos", "lastName": "Lopez", "email": "clopez@codestack.co", "personalEmail": "carlos.lopez5639@gmail.com", "role": "Student" },
+        { "firstName": "Daniel", "lastName": "Herrera", "email": "dherrera@codestack.co", "personalEmail": "dherr929@gmail.com", "role": "Student" },
+        { "firstName": "Darcy", "lastName": "Rose", "email": "drose@codestack.co", "personalEmail": "darcy.ophelia.rose@gmail.com", "role": "Student" },
+        { "firstName": "Eliasaf", "lastName": "Gonzalez", "email": "N/A", "personalEmail": "eliasafgonzalez0@gmail.com", "role": "Student" },
+        { "firstName": "Gavin", "lastName": "Tristan", "email": "gtristan@codestack.co", "personalEmail": "gaqtristan@gmail.com", "role": "Student" },
+        { "firstName": "Isaias", "lastName": "Gonzalez", "email": "igonzalez@codestack.co", "personalEmail": "ijgggr@gmail.com", "role": "Student" },
+        { "firstName": "James", "lastName": "Blackwell", "email": "jblackwell@codestack.co", "personalEmail": "bwelljames@gmail.com", "role": "Student" },
+        { "firstName": "Jesus", "lastName": "Salgado", "email": "jsalgado@codestack.co", "personalEmail": "jesussalgado9040@gmail.com", "role": "Student" },
+        { "firstName": "Joseph", "lastName": "Duarte", "email": "jduarte@codestack.co", "personalEmail": "Duartemjoseph@gmail.com", "role": "Student" },
+        { "firstName": "Kellen", "lastName": "Dixon", "email": "kdixon@codestack.co", "personalEmail": "kellendixon2007@gmail.com", "role": "Student" },
+        { "firstName": "Lucas", "lastName": "Guptill", "email": "lguptil@codestack.co", "personalEmail": "fabledparadox@gmail.com", "role": "Student" },
+        { "firstName": "Nicolas", "lastName": "Gonzaba", "email": "ngonzaba@codestack.co", "personalEmail": "NicolasGonzaba1@gmail.com", "role": "Student" },
+        { "firstName": "Pallavi", "lastName": "Pattanashetti", "email": "ppattanashetti@codestack.co", "personalEmail": "Pallavi.Pattanashetti@gmail.com", "role": "Student" },
+        { "firstName": "Rizwan", "lastName": "Mehmoo", "email": "N/A", "personalEmail": "rm.pkusa@gmail.com", "role": "Student" },
+        { "firstName": "Sammer", "lastName": "Saqa", "email": "ssaqa@codestack.co", "personalEmail": "sammersaqa@gmail.com", "role": "Student" },
+        { "firstName": "Vanessa", "lastName": "Acuna", "email": "vacuna@codestack.com", "personalEmail": "vanessa.acuna98@gmail.com", "role": "Student" },
+        { "firstName": "Xavier", "lastName": "Jacques", "email": "xjacques@codestack.co", "personalEmail": "xavierjacques2442@gmail.com", "role": "Student" },
+
+        { "firstName": "Kenneth", "lastName": "Martinez", "email": "kmartinez@codestack.co", "personalEmail": "kmartinez@sjcoe.net", "role": "Instructor" },
+        { "firstName": "Isaiah", "lastName": "Ferguson", "email": "iferguson@codestack.co", "personalEmail": "ifergusonIII@sjcoe.net", "role": "Instructor" },
+        { "firstName": "Jose", "lastName": "Martinez", "email": "jmartinez@codestack.co", "personalEmail": "jmartinez@sjcoe.net", "role": "Instructor" },
+        { "firstName": "Jacob", "lastName": "Dekok", "email": "jdekok@codestack.co", "personalEmail": "jdekok@sjcoe.net", "role": "Instructor" }
+    ]
+}
