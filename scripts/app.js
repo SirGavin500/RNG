@@ -3,7 +3,7 @@ let lastName = document.getElementById("lastName");
 let house = document.getElementById("house");
 let email = document.getElementById("email");
 let personalEmail = document.getElementById("personalEmail");
-let summonBtn = document.getElementById("randomPeerBtn");
+let randomPeerBtn = document.getElementById("randomPeerBtn");
 let historyList = document.getElementById("historyList");
 
 let history = [];
@@ -35,7 +35,7 @@ function updateHistory(randomStudent) {
     });
 }
 
-summonBtn.addEventListener("click", () => {
+randomPeerBtn.addEventListener("click", () => {
     getData().then((students) => {
         let randomStudent = randomizeData(students);
 
