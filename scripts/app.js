@@ -42,7 +42,7 @@ randomPeerBtn.addEventListener("click", () => {
                 history.pop(); 
             }
         }
-
+// used unshift and pop to keep the history to last 5 peers only
         firstName.innerText = randomStudent.firstName;
         lastName.innerText = randomStudent.lastName;
         house.innerText = randomStudent.role;
